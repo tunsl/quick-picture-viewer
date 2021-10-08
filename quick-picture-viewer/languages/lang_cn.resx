@@ -187,7 +187,7 @@
     <comment>Wallpaper</comment>
   </data>
   <data name="center-image" xml:space="preserve">
-    <value>图片位于中央</value>
+    <value>图片居中</value>
     <comment>Print</comment>
   </data>
   <data name="centimeters" xml:space="preserve">
@@ -343,7 +343,7 @@
     <comment>Suggestion</comment>
   </data>
   <data name="file-moved-to-trash" xml:space="preserve">
-    <value>文件已移到回收站</value>
+    <value>文件删除至回收站</value>
     <comment>Message box</comment>
   </data>
   <data name="file-properties" xml:space="preserve">
@@ -451,7 +451,7 @@
     <comment>Menu</comment>
   </data>
   <data name="light" xml:space="preserve">
-    <value>亮色模式</value>
+    <value>浅色模式</value>
     <comment>Settings</comment>
   </data>
   <data name="localization" xml:space="preserve">
@@ -499,7 +499,7 @@
     <comment>Settings</comment>
   </data>
   <data name="move-to-trash" xml:space="preserve">
-    <value>移动文件至回收站</value>
+    <value>删除至回收站</value>
     <comment>Menu</comment>
   </data>
   <data name="new-version-available" xml:space="preserve">
@@ -559,7 +559,7 @@
     <comment>Menu</comment>
   </data>
   <data name="open-recursive" xml:space="preserve">
-    <value>递归打开文件夹</value>
+    <value>打开文件夹(含子目录)</value>
     <comment>Menu</comment>
   </data>
   <data name="open-with" xml:space="preserve">
